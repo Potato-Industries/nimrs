@@ -2,26 +2,34 @@
 
 portable nim (nim-lang) reverse shell 
 
+**Supports**
+
 Windows, Linux, MacOS
 
 https://nim-lang.org/
 
 **Install**
+
 https://nim-lang.org/install.html
 
 **Cross Compile**
+
 https://nim-lang.org/docs/nimc.html
 
 > Cross compilation for Windows
+>
 > To cross compile for Windows from Linux or macOS using the MinGW-w64 toolchain:
 > 
 > nim c -d:mingw myproject.nim
+>
 > Use --cpu:i386 or --cpu:amd64 to switch the CPU architecture.
 > 
 > The MinGW-w64 toolchain can be installed as follows:
 > 
 > Ubuntu: apt install mingw-w64
+>
 > CentOS: yum install mingw32-gcc | mingw64-gcc - requires EPEL
+>
 > OSX: brew install mingw-w64
 
 ```
@@ -82,6 +90,7 @@ msedgewin10\ieuser
 
 **AV**
 
+<img width="1342" alt="Screenshot 2019-12-06 at 05 43 36" src="https://user-images.githubusercontent.com/56988989/70299149-fd247600-17eb-11ea-88e8-e63dc5d57364.png">
 
 
 Enjoy~
